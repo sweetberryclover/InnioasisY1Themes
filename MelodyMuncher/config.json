@@ -18,11 +18,11 @@
         "dialogOptionTextColor": "#FFFFFF",
         "dialogOptionSelectedBackground": "dialog_selected.png",
         "dialogOptionSelectedTextColor": "#FFFFFF",
-        "dialogBackgroundColor": "#3F4142",
+        "dialogBackgroundColor": "#FF6EC7",
         "dialogTextColor": "#FFFFFF"
     },
     "menuConfig": {
-        "menuBackgroundColor": "#3F4142",
+        "menuBackgroundColor": "#FF6EC7",
         "menuItemBackground": "",
         "menuItemTextColor": "",
         "menuItemSelectedBackground": "",
@@ -126,4 +126,5 @@
         "progressColor": "#24F2A0",
         "progressBackgroundColor": "#33FFFFFF"
     }
+
 }
